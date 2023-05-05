@@ -1,0 +1,56 @@
+C:\Users\Usuario\source\repos\ARCHIVOSM\bin\Debug\ARCHIVOSM.exe.config
+C:\Users\Usuario\source\repos\ARCHIVOSM\bin\Debug\ARCHIVOSM.exe
+C:\Users\Usuario\source\repos\ARCHIVOSM\bin\Debug\ARCHIVOSM.pdb
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.exe
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.pdb
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.MATERIAS.resources
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.ALUMNO.resources
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.PROFESOR.resources
+C:\Users\Usuario\source\repos\ARCHIVOSM\obj\Debug\ARCHIVOSM.MIUAI.resources
+C:\Users\El Cris\Desktop\ARCHIVOSM\bin\Debug\ARCHIVOSM.exe.config
+C:\Users\El Cris\Desktop\ARCHIVOSM\bin\Debug\ARCHIVOSM.exe
+C:\Users\El Cris\Desktop\ARCHIVOSM\bin\Debug\ARCHIVOSM.pdb
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.AssemblyReference.cache
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.SuggestedBindingRedirects.cache
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.ALUMNO.resources
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.MIUAI.resources
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.MATERIAS.resources
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.PROFESOR.resources
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.Properties.Resources.resources
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.GenerateResource.cache
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.CoreCompileInputs.cache
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.exe
+C:\Users\El Cris\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.pdb
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\bin\Debug\ARCHIVOSM.exe.config
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\bin\Debug\ARCHIVOSM.exe
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\bin\Debug\ARCHIVOSM.pdb
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.ALUMNO.resources
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.MIUAI.resources
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.MATERIAS.resources
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.PROFESOR.resources
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.exe
+C:\Users\Usuario\Downloads\ARCHIVOSMa\ARCHIVOSM\obj\Debug\ARCHIVOSM.pdb
+C:\Users\lincr\Desktop\ARCHIVOSM\bin\Debug\ARCHIVOSM.exe.config
+C:\Users\lincr\Desktop\ARCHIVOSM\bin\Debug\ARCHIVOSM.exe
+C:\Users\lincr\Desktop\ARCHIVOSM\bin\Debug\ARCHIVOSM.pdb
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.AssemblyReference.cache
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.SuggestedBindingRedirects.cache
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.ALUMNO.resources
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.MIUAI.resources
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.MATERIAS.resources
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.PROFESOR.resources
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.Properties.Resources.resources
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.GenerateResource.cache
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.csproj.CoreCompileInputs.cache
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.exe
+C:\Users\lincr\Desktop\ARCHIVOSM\obj\Debug\ARCHIVOSM.pdb
